@@ -42,8 +42,10 @@ The foundation of the HNSW algorithm involves creating classes to represent node
 ### References
 
 1. John Graves. Defining Markets for Health Care Services. https://github.com/LNshuti/health-care-markets
+
 2. Approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability. spotify.github.io/voyager
 
+3. Breadth and exclusivity of hospital and physician networks in US insurance markets. John A Graves, Leonce Nshuti, Jordan Everson, Michael Richards, Melinda Buntin, Sayeh Nikpay, Zilu Zhou, Daniel Polsky
 
 
 
