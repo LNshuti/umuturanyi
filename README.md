@@ -39,6 +39,13 @@ To harness the capabilities of HNSW graphs, an effective implementation is essen
 
 The foundation of the HNSW algorithm involves creating classes to represent nodes and the hierarchical graph structure.
 
+### References
+
+1. John Graves. Defining Markets for Health Care Services. https://github.com/LNshuti/health-care-markets
+2. Approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability. spotify.github.io/voyager
+
+
+
 
 
 
