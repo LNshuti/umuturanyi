@@ -1,10 +1,6 @@
 # Geographic markets for transportation and logistics 
 
-Accurate market definition enables companies to allocate resources efficiently, identify growth opportunities, and mitigate risks associated with regional disparities. This document explores the application of Hierarchical Navigable Small World (HNSW) graphs for defining and analyzing geographic markets in high-dimensional spaces.
-
-## Understanding Geographic Markets in Transportation and Logistics
-
-Geographic markets in transportation and logistics refer to specific regions or areas where services are offered, operations are conducted, and customers are served. These markets are influenced by various factors, including population density, infrastructure quality, economic activity, and regional regulations. Precise market definition assists businesses in:
+Defining geographic markets in transportation and logistics consists of identifying regions where logistics services are offered, operations are conducted, and customers are served. These markets are influenced by various factors, including population density, infrastructure quality, economic activity, and regional regulations. Precise market definition assists businesses in:
 
 1. **Resource Allocation**: Determining where to establish distribution centers, warehouses, and service hubs based on demand and logistical efficiency.
 2. **Demand Forecasting**: Anticipating customer needs and adjusting supply chains accordingly.
