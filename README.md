@@ -1,4 +1,4 @@
-# umuturanyi - Geographic markets for transportation and logistics 
+# Geographic markets for transportation and logistics 
 
 Accurate market definition enables companies to allocate resources efficiently, identify growth opportunities, and mitigate risks associated with regional disparities. This document explores the application of Hierarchical Navigable Small World (HNSW) graphs for defining and analyzing geographic markets in high-dimensional spaces.
 
